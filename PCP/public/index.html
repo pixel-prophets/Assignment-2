@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <title>World Energy Data</title>
+    <link rel="stylesheet" type="text/css" href="parallel.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="icon" href="icon.png" type="image/x-icon"/>
+  </head>
+  <body>
+  <div id="chart">
+    <canvas id="background"></canvas>
+    <canvas id="foreground"></canvas>
+    <canvas id="highlight"></canvas>
+    <svg></svg>
+  </div>
+  <div id="wrap">
+    <div class="third" id="controls">
+      <div class="bright">
+        <h3>World Energy Data</h3> <img src="icon.png" alt="" class="icon">
+        <p>
+          A multidimensional explorer of the <a href="https://www.energyinst.org/statistical-review/resources-and-data-downloads">Statistical Review of World Energy</a> from the <a href="https://www.energyinst.org/">Energy Institute</a>.
+        </p>
+        <p>
+          The parallel coordinates displays various metrics related to the production and consumption of energy, colored by the continent they belong to.
+        </p>
+        <!-- <p>
+          <a href="http://eagereyes.org/techniques/parallel-coordinates#brushing">Brush</a> the visualization to update other charts on this page.
+        </p> -->
+        <!-- <p>
+          Let me know what you think on <a href="http://www.reddit.com/r/d3js/comments/xh2ks/nutrition_parallel_coordinates_canvas/">Reddit</a>.
+        </p> -->
+      </div>
+
+      <div class="little-box">
+        <h3>Controls</h3>
+        <p>
+          <strong>Brush</strong>: Drag vertically along an axis.<br/>
+          <strong>Remove Brush</strong>: Tap the axis background.<br/>
+          <strong>Reorder Axes</strong>: Drag a label horizontally.<br/>
+          <strong>Invert Axis</strong>: Tap an axis label.<br/>
+          <strong>Remove Axis</strong>: Drag axis label to the left edge.<br/>
+        </p>
+      </div>
+      <div class="little-box">
+        <h3>Credits &amp; License</h3>
+        <p>
+          Modified to display the World Energy Data across different years by Subhajeet Lahiri.
+        </p>
+          <p>
+          Adapted from examples by<br/>
+          <a href="http://bl.ocks.org/1341021">Mike Bostock</a> and <a href="http://bl.ocks.org/1341281">Jason Davies</a><br/>
+          </p>
+          <p>
+            Copyright &copy; 2012, Kai Chang<br/>
+            All rights reserved. Released under the <a href="http://opensource.org/licenses/bsd-3-clause">BSD License</a>.
+          </p>
+          <p>
+            <a href="https://www.flaticon.com/free-icons/renewable-energy" title="renewable energy icons">Renewable energy icons created by Flat Icons - Flaticon</a>
+          </p>
+        </p>
+      </div>
+    </div>
+    <div  class="third">
+      <h3>Year</h3>
+      <strong id = "currentyear"></strong>
+      <p>
+        <button class="yearbtn" id = "toggle1965">1965</button>
+        <button class="yearbtn" id = "toggle1975">1975</button>
+        <button class="yearbtn" id = "toggle1985">1985</button>
+        <button class="yearbtn" id = "toggle1995">1995</button>
+        <button class="yearbtn" id = "toggle2005">2005</button>
+        <button class="yearbtn" id = "toggle2015">2015</button>
+        <button class="yearbtn" id = "toggle2021">2021</button>
+      </p>
+      <h3>Regions</h3>
+      <p id="legend">
+      </p>
+    </div>
+    <div class="third">
+      <h3>Sample of 25 entries <input type="text" id="search" placeholder="Search Countries"></input></h3>
+      <p id="food-list">
+      </p>
+    </div>
+  </div>
+  </body>
+  <script src="https://d3js.org/d3.v2.js"></script>
+  <script src="https://underscorejs.org/underscore.js"></script>
+  <script src="parallel.js"></script>
+</html>
