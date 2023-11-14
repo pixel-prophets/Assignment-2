@@ -1,0 +1,805 @@
+{
+    "Parent": "Root",
+    "label": "World",
+    "value": 0.9945016455,
+    "data": [
+        {
+            "Year": 2012,
+            "value": 0.0060906368,
+            "Parent": "World",
+            "label": "Africa",
+            "svalue": 0.0085486998,
+            "data": [
+                {
+                    "label": "Algeria",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.000263782,
+                    "svalue": 0.0009992153
+                },
+                {
+                    "label": "Angola",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Chad",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Democratic Republic of Congo",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Egypt",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.004976952,
+                    "svalue": 0.0188528657
+                },
+                {
+                    "label": "Equatorial Guinea",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Gabon",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Libya",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Madagascar",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Morocco",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 9.998e-07,
+                    "svalue": 3.7871e-06
+                },
+                {
+                    "label": "Nigeria",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Republic of Congo",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "South Africa",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.000848903,
+                    "svalue": 0.0032156738
+                },
+                {
+                    "label": "South Sudan",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Sudan",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Tunisia",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Zambia",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Zimbabwe",
+                    "Year": 2012,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                }
+            ]
+        },
+        {
+            "Year": 2012,
+            "value": 0.1723764551,
+            "Parent": "World",
+            "label": "Asia Pacific",
+            "svalue": 0.2419442536,
+            "data": [
+                {
+                    "label": "Australia",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.023808774,
+                    "svalue": 0.0901884563
+                },
+                {
+                    "label": "Bangladesh",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.000897271,
+                    "svalue": 0.0033988935
+                },
+                {
+                    "label": "Brunei",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "China",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.035481293,
+                    "svalue": 0.1344043604
+                },
+                {
+                    "label": "China Hong Kong SAR",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 2.96129e-05,
+                    "svalue": 0.0001121747
+                },
+                {
+                    "label": "India",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.020719161,
+                    "svalue": 0.0784848958
+                },
+                {
+                    "label": "Indonesia",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 2.97116e-05,
+                    "svalue": 0.0001125486
+                },
+                {
+                    "label": "Japan",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.072767816,
+                    "svalue": 0.2756469943
+                },
+                {
+                    "label": "Malaysia",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 6.90968e-05,
+                    "svalue": 0.0002617411
+                },
+                {
+                    "label": "Mongolia",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Myanmar",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "New Caledonia",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "New Zealand",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 4.76072e-05,
+                    "svalue": 0.0001803377
+                },
+                {
+                    "label": "Pakistan",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.000651188,
+                    "svalue": 0.0024667226
+                },
+                {
+                    "label": "Papua New Guinea",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Philippines",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 1.30297e-05,
+                    "svalue": 4.9357e-05
+                },
+                {
+                    "label": "Singapore",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 8.08728e-05,
+                    "svalue": 0.000306349
+                },
+                {
+                    "label": "South Korea",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.011125535,
+                    "svalue": 0.0421439099
+                },
+                {
+                    "label": "Sri Lanka",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 9.87869e-05,
+                    "svalue": 0.0003742082
+                },
+                {
+                    "label": "Taiwan",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.00157807,
+                    "svalue": 0.0059777835
+                },
+                {
+                    "label": "Thailand",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 0.00492043,
+                    "svalue": 0.0186387584
+                },
+                {
+                    "label": "Vietnam",
+                    "Year": 2012,
+                    "Parent": "Asia Pacific",
+                    "value": 5.81992e-05,
+                    "svalue": 0.0002204606
+                }
+            ]
+        },
+        {
+            "Year": 2012,
+            "value": 5.14666e-05,
+            "Parent": "World",
+            "label": "CIS",
+            "svalue": 7.22375e-05,
+            "data": [
+                {
+                    "label": "Azerbaijan",
+                    "Year": 2012,
+                    "Parent": "CIS",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Belarus",
+                    "Year": 2012,
+                    "Parent": "CIS",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Kazakhstan",
+                    "Year": 2012,
+                    "Parent": "CIS",
+                    "value": 2.073e-07,
+                    "svalue": 7.852e-07
+                },
+                {
+                    "label": "Russian Federation",
+                    "Year": 2012,
+                    "Parent": "CIS",
+                    "value": 4.15716e-05,
+                    "svalue": 0.0001574747
+                },
+                {
+                    "label": "Turkmenistan",
+                    "Year": 2012,
+                    "Parent": "CIS",
+                    "value": 9.6877e-06,
+                    "svalue": 3.66973e-05
+                },
+                {
+                    "label": "Uzbekistan",
+                    "Year": 2012,
+                    "Parent": "CIS",
+                    "value": 0.0,
+                    "svalue": 0.0
+                }
+            ]
+        },
+        {
+            "Year": 2012,
+            "value": 0.7124635223,
+            "Parent": "World",
+            "label": "Europe",
+            "svalue": 1.0,
+            "data": [
+                {
+                    "label": "Austria",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.003331284,
+                    "svalue": 0.0126190186
+                },
+                {
+                    "label": "Belgium",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.021202838,
+                    "svalue": 0.0803170809
+                },
+                {
+                    "label": "Bulgaria",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.008034968,
+                    "svalue": 0.0304367356
+                },
+                {
+                    "label": "Croatia",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 2.37298e-05,
+                    "svalue": 8.98893e-05
+                },
+                {
+                    "label": "Cyprus",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.000217161,
+                    "svalue": 0.0008226134
+                },
+                {
+                    "label": "Czech Republic",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.021208998,
+                    "svalue": 0.0803404152
+                },
+                {
+                    "label": "Denmark",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.00102521,
+                    "svalue": 0.0038835308
+                },
+                {
+                    "label": "Estonia",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 2.9613e-06,
+                    "svalue": 1.12175e-05
+                },
+                {
+                    "label": "Finland",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 5.67482e-05,
+                    "svalue": 0.0002149641
+                },
+                {
+                    "label": "France",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.039645053,
+                    "svalue": 0.1501768268
+                },
+                {
+                    "label": "Germany",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.263989151,
+                    "svalue": 1.0
+                },
+                {
+                    "label": "Greece",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.01672128,
+                    "svalue": 0.0633407848
+                },
+                {
+                    "label": "Hungary",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 7.89677e-05,
+                    "svalue": 0.0002991324
+                },
+                {
+                    "label": "Iceland",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Ireland",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 6.3759e-06,
+                    "svalue": 2.41523e-05
+                },
+                {
+                    "label": "Italy",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.186183229,
+                    "svalue": 0.7052684866
+                },
+                {
+                    "label": "Latvia",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 1.9742e-06,
+                    "svalue": 7.4783e-06
+                },
+                {
+                    "label": "Lithuania",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 2.27032e-05,
+                    "svalue": 8.60005e-05
+                },
+                {
+                    "label": "Luxembourg",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.000377831,
+                    "svalue": 0.0014312368
+                },
+                {
+                    "label": "Netherlands",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.002504788,
+                    "svalue": 0.0094882232
+                },
+                {
+                    "label": "North Macedonia",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 2.79941e-05,
+                    "svalue": 0.0001060426
+                },
+                {
+                    "label": "Norway",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 8.78516e-05,
+                    "svalue": 0.0003327849
+                },
+                {
+                    "label": "Poland",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 1.08581e-05,
+                    "svalue": 4.11309e-05
+                },
+                {
+                    "label": "Portugal",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.00387929,
+                    "svalue": 0.0146948842
+                },
+                {
+                    "label": "Romania",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 7.89677e-05,
+                    "svalue": 0.0002991324
+                },
+                {
+                    "label": "Serbia",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Slovakia",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.004185291,
+                    "svalue": 0.0158540265
+                },
+                {
+                    "label": "Slovenia",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.001608968,
+                    "svalue": 0.0060948262
+                },
+                {
+                    "label": "Spain",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.118115105,
+                    "svalue": 0.4474240875
+                },
+                {
+                    "label": "Sweden",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.000187548,
+                    "svalue": 0.0007104383
+                },
+                {
+                    "label": "Switzerland",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.002951419,
+                    "svalue": 0.0111800769
+                },
+                {
+                    "label": "Turkiye",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 4.20285e-05,
+                    "svalue": 0.0001592054
+                },
+                {
+                    "label": "Ukraine",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.003289994,
+                    "svalue": 0.0124626106
+                },
+                {
+                    "label": "United Kingdom",
+                    "Year": 2012,
+                    "Parent": "Europe",
+                    "value": 0.013362956,
+                    "svalue": 0.0506193378
+                }
+            ]
+        },
+        {
+            "Year": 2012,
+            "value": 0.0041524495,
+            "Parent": "World",
+            "label": "Middle East",
+            "svalue": 0.0058282977,
+            "data": [
+                {
+                    "label": "Bahrain",
+                    "Year": 2012,
+                    "Parent": "Middle East",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Iran",
+                    "Year": 2012,
+                    "Parent": "Middle East",
+                    "value": 6.9097e-06,
+                    "svalue": 2.61741e-05
+                },
+                {
+                    "label": "Iraq",
+                    "Year": 2012,
+                    "Parent": "Middle East",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Israel",
+                    "Year": 2012,
+                    "Parent": "Middle East",
+                    "value": 0.003642387,
+                    "svalue": 0.0137974875
+                },
+                {
+                    "label": "Kuwait",
+                    "Year": 2012,
+                    "Parent": "Middle East",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Oman",
+                    "Year": 2012,
+                    "Parent": "Middle East",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Qatar",
+                    "Year": 2012,
+                    "Parent": "Middle East",
+                    "value": 1.07988e-05,
+                    "svalue": 4.09062e-05
+                },
+                {
+                    "label": "Saudi Arabia",
+                    "Year": 2012,
+                    "Parent": "Middle East",
+                    "value": 0.000253062,
+                    "svalue": 0.0009586076
+                },
+                {
+                    "label": "Syria",
+                    "Year": 2012,
+                    "Parent": "Middle East",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "United Arab Emirates",
+                    "Year": 2012,
+                    "Parent": "Middle East",
+                    "value": 0.000239292,
+                    "svalue": 0.0009064463
+                },
+                {
+                    "label": "Yemen",
+                    "Year": 2012,
+                    "Parent": "Middle East",
+                    "value": 0.0,
+                    "svalue": 0.0
+                }
+            ]
+        },
+        {
+            "Year": 2012,
+            "value": 0.098579588,
+            "Parent": "World",
+            "label": "North America",
+            "svalue": 0.1383644003,
+            "data": [
+                {
+                    "label": "Canada",
+                    "Year": 2012,
+                    "Parent": "North America",
+                    "value": 0.008694418,
+                    "svalue": 0.032934755
+                },
+                {
+                    "label": "Mexico",
+                    "Year": 2012,
+                    "Parent": "North America",
+                    "value": 0.000681097,
+                    "svalue": 0.0025800189
+                },
+                {
+                    "label": "US",
+                    "Year": 2012,
+                    "Parent": "North America",
+                    "value": 0.089204073,
+                    "svalue": 0.3379081021
+                }
+            ]
+        },
+        {
+            "Year": 2012,
+            "value": 0.0007875272,
+            "Parent": "World",
+            "label": "S. & Cent. America",
+            "svalue": 0.0011053579,
+            "data": [
+                {
+                    "label": "Argentina",
+                    "Year": 2012,
+                    "Parent": "S. & Cent. America",
+                    "value": 8.06751e-05,
+                    "svalue": 0.0003056001
+                },
+                {
+                    "label": "Bolivia",
+                    "Year": 2012,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Brazil",
+                    "Year": 2012,
+                    "Parent": "S. & Cent. America",
+                    "value": 1.59428e-05,
+                    "svalue": 6.03919e-05
+                },
+                {
+                    "label": "Chile",
+                    "Year": 2012,
+                    "Parent": "S. & Cent. America",
+                    "value": 3.36e-06,
+                    "svalue": 1.27277e-05
+                },
+                {
+                    "label": "Colombia",
+                    "Year": 2012,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Cuba",
+                    "Year": 2012,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Curacao",
+                    "Year": 2012,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Ecuador",
+                    "Year": 2012,
+                    "Parent": "S. & Cent. America",
+                    "value": 3.2146e-06,
+                    "svalue": 1.21769e-05
+                },
+                {
+                    "label": "Peru",
+                    "Year": 2012,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.000589297,
+                    "svalue": 0.0022322773
+                },
+                {
+                    "label": "Trinidad & Tobago",
+                    "Year": 2012,
+                    "Parent": "S. & Cent. America",
+                    "value": 4.35112e-05,
+                    "svalue": 0.0001648219
+                },
+                {
+                    "label": "Venezuela",
+                    "Year": 2012,
+                    "Parent": "S. & Cent. America",
+                    "value": 5.15265e-05,
+                    "svalue": 0.0001951842
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,735 @@
+{
+    "Parent": "Root",
+    "label": "World",
+    "value": 131.76212766,
+    "data": [
+        {
+            "Year": 1992,
+            "value": 2.366355538,
+            "Parent": "World",
+            "label": "Africa",
+            "svalue": 0.0587495181,
+            "data": [
+                {
+                    "label": "Algeria",
+                    "Year": 1992,
+                    "Parent": "Africa",
+                    "value": 0.400653571,
+                    "svalue": 0.0119703161
+                },
+                {
+                    "label": "Angola",
+                    "Year": 1992,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Egypt",
+                    "Year": 1992,
+                    "Parent": "Africa",
+                    "value": 0.935358882,
+                    "svalue": 0.0279456924
+                },
+                {
+                    "label": "Equatorial Guinea",
+                    "Year": 1992,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Gabon",
+                    "Year": 1992,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Libya",
+                    "Year": 1992,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Morocco",
+                    "Year": 1992,
+                    "Parent": "Africa",
+                    "value": 0.280233651,
+                    "svalue": 0.0083725333
+                },
+                {
+                    "label": "Nigeria",
+                    "Year": 1992,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Republic of Congo",
+                    "Year": 1992,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "South Africa",
+                    "Year": 1992,
+                    "Parent": "Africa",
+                    "value": 0.750109434,
+                    "svalue": 0.0224109996
+                },
+                {
+                    "label": "Tunisia",
+                    "Year": 1992,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Zimbabwe",
+                    "Year": 1992,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                }
+            ]
+        },
+        {
+            "Year": 1992,
+            "value": 30.933776272,
+            "Parent": "World",
+            "label": "Asia Pacific",
+            "svalue": 0.7679929832,
+            "data": [
+                {
+                    "label": "Australia",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 1.333968997,
+                    "svalue": 0.0398549562
+                },
+                {
+                    "label": "Bangladesh",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 0.082815349,
+                    "svalue": 0.002474272
+                },
+                {
+                    "label": "Brunei",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "China",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 5.385282993,
+                    "svalue": 0.1608959564
+                },
+                {
+                    "label": "China Hong Kong SAR",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 0.348729342,
+                    "svalue": 0.0104189773
+                },
+                {
+                    "label": "India",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 2.679071665,
+                    "svalue": 0.0800425527
+                },
+                {
+                    "label": "Indonesia",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 1.513837457,
+                    "svalue": 0.0452288814
+                },
+                {
+                    "label": "Japan",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 11.02973747,
+                    "svalue": 0.3295351724
+                },
+                {
+                    "label": "Malaysia",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 0.651665568,
+                    "svalue": 0.0194697948
+                },
+                {
+                    "label": "Mongolia",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Myanmar",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "New Zealand",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 0.192029268,
+                    "svalue": 0.0057372533
+                },
+                {
+                    "label": "Pakistan",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 0.528518736,
+                    "svalue": 0.0157905402
+                },
+                {
+                    "label": "Philippines",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 0.550911307,
+                    "svalue": 0.0164595624
+                },
+                {
+                    "label": "Singapore",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 1.033706069,
+                    "svalue": 0.0308840087
+                },
+                {
+                    "label": "South Korea",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 3.125070572,
+                    "svalue": 0.0933676502
+                },
+                {
+                    "label": "Sri Lanka",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 0.084300861,
+                    "svalue": 0.0025186546
+                },
+                {
+                    "label": "Taiwan",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 1.263196349,
+                    "svalue": 0.0377404836
+                },
+                {
+                    "label": "Thailand",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 0.996460617,
+                    "svalue": 0.0297712273
+                },
+                {
+                    "label": "Vietnam",
+                    "Year": 1992,
+                    "Parent": "Asia Pacific",
+                    "value": 0.134473652,
+                    "svalue": 0.0040176657
+                }
+            ]
+        },
+        {
+            "Year": 1992,
+            "value": 12.599114001,
+            "Parent": "World",
+            "label": "CIS",
+            "svalue": 0.3127982521,
+            "data": [
+                {
+                    "label": "Azerbaijan",
+                    "Year": 1992,
+                    "Parent": "CIS",
+                    "value": 0.339550078,
+                    "svalue": 0.0101447286
+                },
+                {
+                    "label": "Belarus",
+                    "Year": 1992,
+                    "Parent": "CIS",
+                    "value": 0.814957023,
+                    "svalue": 0.0243484493
+                },
+                {
+                    "label": "Kazakhstan",
+                    "Year": 1992,
+                    "Parent": "CIS",
+                    "value": 0.869718194,
+                    "svalue": 0.0259845473
+                },
+                {
+                    "label": "Russian Federation",
+                    "Year": 1992,
+                    "Parent": "CIS",
+                    "value": 9.998907089,
+                    "svalue": 0.2987370806
+                },
+                {
+                    "label": "Turkmenistan",
+                    "Year": 1992,
+                    "Parent": "CIS",
+                    "value": 0.21262756,
+                    "svalue": 0.0063526679
+                },
+                {
+                    "label": "Uzbekistan",
+                    "Year": 1992,
+                    "Parent": "CIS",
+                    "value": 0.363354057,
+                    "svalue": 0.0108559195
+                }
+            ]
+        },
+        {
+            "Year": 1992,
+            "value": 32.889336885,
+            "Parent": "World",
+            "label": "Europe",
+            "svalue": 0.8165436941,
+            "data": [
+                {
+                    "label": "Austria",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.486816853,
+                    "svalue": 0.0145446141
+                },
+                {
+                    "label": "Belgium",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 1.098984599,
+                    "svalue": 0.0328343336
+                },
+                {
+                    "label": "Bulgaria",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.256588429,
+                    "svalue": 0.0076660857
+                },
+                {
+                    "label": "Croatia",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.138586521,
+                    "svalue": 0.0041405458
+                },
+                {
+                    "label": "Cyprus",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.078593001,
+                    "svalue": 0.002348121
+                },
+                {
+                    "label": "Czech Republic",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.290452391,
+                    "svalue": 0.0086778383
+                },
+                {
+                    "label": "Denmark",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.389209837,
+                    "svalue": 0.0116284119
+                },
+                {
+                    "label": "Estonia",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.070466556,
+                    "svalue": 0.0021053274
+                },
+                {
+                    "label": "Finland",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.472466409,
+                    "svalue": 0.0141158663
+                },
+                {
+                    "label": "France",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 4.102083683,
+                    "svalue": 0.1225578449
+                },
+                {
+                    "label": "Germany",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 5.837958336,
+                    "svalue": 0.1744205256
+                },
+                {
+                    "label": "Greece",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.700281322,
+                    "svalue": 0.0209222864
+                },
+                {
+                    "label": "Hungary",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.356111616,
+                    "svalue": 0.0106395373
+                },
+                {
+                    "label": "Iceland",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.0285853,
+                    "svalue": 0.0008540422
+                },
+                {
+                    "label": "Ireland",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.22205168,
+                    "svalue": 0.0066342321
+                },
+                {
+                    "label": "Italy",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 4.141410351,
+                    "svalue": 0.1237328067
+                },
+                {
+                    "label": "Latvia",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.104782291,
+                    "svalue": 0.0031305777
+                },
+                {
+                    "label": "Lithuania",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.184600249,
+                    "svalue": 0.0055152967
+                },
+                {
+                    "label": "Luxembourg",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.082557902,
+                    "svalue": 0.0024665802
+                },
+                {
+                    "label": "Netherlands",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 1.554810643,
+                    "svalue": 0.0464530361
+                },
+                {
+                    "label": "North Macedonia",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.044232957,
+                    "svalue": 0.0013215469
+                },
+                {
+                    "label": "Norway",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.359436244,
+                    "svalue": 0.0107388671
+                },
+                {
+                    "label": "Poland",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.58957535,
+                    "svalue": 0.017614727
+                },
+                {
+                    "label": "Portugal",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.563070834,
+                    "svalue": 0.0168228523
+                },
+                {
+                    "label": "Romania",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.538357973,
+                    "svalue": 0.0160845068
+                },
+                {
+                    "label": "Slovakia",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.167985499,
+                    "svalue": 0.0050188983
+                },
+                {
+                    "label": "Slovenia",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.068127923,
+                    "svalue": 0.0020354561
+                },
+                {
+                    "label": "Spain",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 2.294488668,
+                    "svalue": 0.0685523768
+                },
+                {
+                    "label": "Sweden",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.744082093,
+                    "svalue": 0.0222309209
+                },
+                {
+                    "label": "Switzerland",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 0.572897017,
+                    "svalue": 0.0171164289
+                },
+                {
+                    "label": "Turkiye",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 1.017239213,
+                    "svalue": 0.0303920289
+                },
+                {
+                    "label": "Ukraine",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 1.706584692,
+                    "svalue": 0.0509875854
+                },
+                {
+                    "label": "United Kingdom",
+                    "Year": 1992,
+                    "Parent": "Europe",
+                    "value": 3.625860453,
+                    "svalue": 0.1083297361
+                }
+            ]
+        },
+        {
+            "Year": 1992,
+            "value": 6.817535609,
+            "Parent": "World",
+            "label": "Middle East",
+            "svalue": 0.1692589829,
+            "data": [
+                {
+                    "label": "Bahrain",
+                    "Year": 1992,
+                    "Parent": "Middle East",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Iran",
+                    "Year": 1992,
+                    "Parent": "Middle East",
+                    "value": 2.27030158,
+                    "svalue": 0.0678297398
+                },
+                {
+                    "label": "Iraq",
+                    "Year": 1992,
+                    "Parent": "Middle East",
+                    "value": 0.723916054,
+                    "svalue": 0.0216284207
+                },
+                {
+                    "label": "Israel",
+                    "Year": 1992,
+                    "Parent": "Middle East",
+                    "value": 0.418144375,
+                    "svalue": 0.0124928883
+                },
+                {
+                    "label": "Kuwait",
+                    "Year": 1992,
+                    "Parent": "Middle East",
+                    "value": 0.204426959,
+                    "svalue": 0.0061076588
+                },
+                {
+                    "label": "Oman",
+                    "Year": 1992,
+                    "Parent": "Middle East",
+                    "value": 0.119384445,
+                    "svalue": 0.0035668459
+                },
+                {
+                    "label": "Qatar",
+                    "Year": 1992,
+                    "Parent": "Middle East",
+                    "value": 0.049210079,
+                    "svalue": 0.0014702482
+                },
+                {
+                    "label": "Saudi Arabia",
+                    "Year": 1992,
+                    "Parent": "Middle East",
+                    "value": 2.226172686,
+                    "svalue": 0.066511302
+                },
+                {
+                    "label": "Syria",
+                    "Year": 1992,
+                    "Parent": "Middle East",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "United Arab Emirates",
+                    "Year": 1992,
+                    "Parent": "Middle East",
+                    "value": 0.805979431,
+                    "svalue": 0.024080226
+                },
+                {
+                    "label": "Yemen",
+                    "Year": 1992,
+                    "Parent": "Middle East",
+                    "value": 0.0,
+                    "svalue": 0.0
+                }
+            ]
+        },
+        {
+            "Year": 1992,
+            "value": 40.278722526,
+            "Parent": "World",
+            "label": "North America",
+            "svalue": 1.0,
+            "data": [
+                {
+                    "label": "Canada",
+                    "Year": 1992,
+                    "Parent": "North America",
+                    "value": 3.371388197,
+                    "svalue": 0.1007268753
+                },
+                {
+                    "label": "Mexico",
+                    "Year": 1992,
+                    "Parent": "North America",
+                    "value": 3.436741829,
+                    "svalue": 0.102679444
+                },
+                {
+                    "label": "US",
+                    "Year": 1992,
+                    "Parent": "North America",
+                    "value": 33.4705925,
+                    "svalue": 1.0
+                }
+            ]
+        },
+        {
+            "Year": 1992,
+            "value": 5.877286829,
+            "Parent": "World",
+            "label": "S. & Cent. America",
+            "svalue": 0.1459154228,
+            "data": [
+                {
+                    "label": "Argentina",
+                    "Year": 1992,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.909742892,
+                    "svalue": 0.0271803641
+                },
+                {
+                    "label": "Bolivia",
+                    "Year": 1992,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Brazil",
+                    "Year": 1992,
+                    "Parent": "S. & Cent. America",
+                    "value": 2.603992701,
+                    "svalue": 0.0777994205
+                },
+                {
+                    "label": "Chile",
+                    "Year": 1992,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.345058709,
+                    "svalue": 0.0103093099
+                },
+                {
+                    "label": "Colombia",
+                    "Year": 1992,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.44814375,
+                    "svalue": 0.0133891789
+                },
+                {
+                    "label": "Ecuador",
+                    "Year": 1992,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.255767107,
+                    "svalue": 0.007641547
+                },
+                {
+                    "label": "Netherlands Antilles",
+                    "Year": 1992,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Peru",
+                    "Year": 1992,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.242838949,
+                    "svalue": 0.0072552928
+                },
+                {
+                    "label": "Trinidad & Tobago",
+                    "Year": 1992,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.071505614,
+                    "svalue": 0.0021363713
+                },
+                {
+                    "label": "Venezuela",
+                    "Year": 1992,
+                    "Parent": "S. & Cent. America",
+                    "value": 1.000237107,
+                    "svalue": 0.0298840574
+                }
+            ]
+        }
+    ]
+}

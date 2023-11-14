@@ -1,0 +1,812 @@
+{
+    "Parent": "Root",
+    "label": "World",
+    "value": 12.237940428,
+    "data": [
+        {
+            "Year": 2022,
+            "value": 0.125344726,
+            "Parent": "World",
+            "label": "Africa",
+            "svalue": 0.0180124819,
+            "data": [
+                {
+                    "label": "Algeria",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.006398879,
+                    "svalue": 0.0015939784
+                },
+                {
+                    "label": "Angola",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Chad",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Democratic Republic of Congo",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Egypt",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0471665,
+                    "svalue": 0.0117493051
+                },
+                {
+                    "label": "Equatorial Guinea",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Gabon",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Libya",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Madagascar",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Morocco",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0135881,
+                    "svalue": 0.0033848331
+                },
+                {
+                    "label": "Mozambique",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Nigeria",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Republic of Congo",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "South Africa",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.058191247,
+                    "svalue": 0.0144955999
+                },
+                {
+                    "label": "South Sudan",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Sudan",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Tunisia",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Zambia",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Zimbabwe",
+                    "Year": 2022,
+                    "Parent": "Africa",
+                    "value": 0.0,
+                    "svalue": 0.0
+                }
+            ]
+        },
+        {
+            "Year": 2022,
+            "value": 6.958770419,
+            "Parent": "World",
+            "label": "Asia Pacific",
+            "svalue": 1.0,
+            "data": [
+                {
+                    "label": "Australia",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.36454916,
+                    "svalue": 0.0908101999
+                },
+                {
+                    "label": "Bangladesh",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.006172437,
+                    "svalue": 0.0015375711
+                },
+                {
+                    "label": "Brunei",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "China",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 4.014407635,
+                    "svalue": 1.0
+                },
+                {
+                    "label": "China Hong Kong SAR",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.000490261,
+                    "svalue": 0.0001221254
+                },
+                {
+                    "label": "India",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.893123806,
+                    "svalue": 0.2224796003
+                },
+                {
+                    "label": "Indonesia",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.002813171,
+                    "svalue": 0.0007007686
+                },
+                {
+                    "label": "Japan",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.961075366,
+                    "svalue": 0.2394065211
+                },
+                {
+                    "label": "Malaysia",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.025538296,
+                    "svalue": 0.0063616599
+                },
+                {
+                    "label": "Mongolia",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Myanmar",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "New Caledonia",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "New Zealand",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.002613172,
+                    "svalue": 0.0006509483
+                },
+                {
+                    "label": "Pakistan",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.008355681,
+                    "svalue": 0.0020814232
+                },
+                {
+                    "label": "Papua New Guinea",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Philippines",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.017219663,
+                    "svalue": 0.0042894655
+                },
+                {
+                    "label": "Singapore",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.006262509,
+                    "svalue": 0.0015600082
+                },
+                {
+                    "label": "South Korea",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.253144145,
+                    "svalue": 0.0630589038
+                },
+                {
+                    "label": "Sri Lanka",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.009512228,
+                    "svalue": 0.0023695222
+                },
+                {
+                    "label": "Taiwan",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.100195326,
+                    "svalue": 0.0249589317
+                },
+                {
+                    "label": "Thailand",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.045796458,
+                    "svalue": 0.0114080238
+                },
+                {
+                    "label": "Vietnam",
+                    "Year": 2022,
+                    "Parent": "Asia Pacific",
+                    "value": 0.247501105,
+                    "svalue": 0.061653207
+                }
+            ]
+        },
+        {
+            "Year": 2022,
+            "value": 0.0434625754,
+            "Parent": "World",
+            "label": "CIS",
+            "svalue": 0.0062457263,
+            "data": [
+                {
+                    "label": "Azerbaijan",
+                    "Year": 2022,
+                    "Parent": "CIS",
+                    "value": 0.000571588,
+                    "svalue": 0.0001423841
+                },
+                {
+                    "label": "Belarus",
+                    "Year": 2022,
+                    "Parent": "CIS",
+                    "value": 0.002675217,
+                    "svalue": 0.0006664039
+                },
+                {
+                    "label": "Kazakhstan",
+                    "Year": 2022,
+                    "Parent": "CIS",
+                    "value": 0.015910404,
+                    "svalue": 0.0039633255
+                },
+                {
+                    "label": "Russian Federation",
+                    "Year": 2022,
+                    "Parent": "CIS",
+                    "value": 0.022512879,
+                    "svalue": 0.0056080202
+                },
+                {
+                    "label": "Turkmenistan",
+                    "Year": 2022,
+                    "Parent": "CIS",
+                    "value": 6.53244e-05,
+                    "svalue": 1.62725e-05
+                },
+                {
+                    "label": "Uzbekistan",
+                    "Year": 2022,
+                    "Parent": "CIS",
+                    "value": 0.001727163,
+                    "svalue": 0.0004302411
+                }
+            ]
+        },
+        {
+            "Year": 2022,
+            "value": 2.3082880335,
+            "Parent": "World",
+            "label": "Europe",
+            "svalue": 0.3317091806,
+            "data": [
+                {
+                    "label": "Austria",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.03020772,
+                    "svalue": 0.0075248263
+                },
+                {
+                    "label": "Belgium",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.063549399,
+                    "svalue": 0.0158303303
+                },
+                {
+                    "label": "Bulgaria",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.018804748,
+                    "svalue": 0.0046843145
+                },
+                {
+                    "label": "Croatia",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.001515311,
+                    "svalue": 0.0003774681
+                },
+                {
+                    "label": "Cyprus",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.006014507,
+                    "svalue": 0.0014982303
+                },
+                {
+                    "label": "Czech Republic",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.021545107,
+                    "svalue": 0.0053669455
+                },
+                {
+                    "label": "Denmark",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.018200185,
+                    "svalue": 0.0045337162
+                },
+                {
+                    "label": "Estonia",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.005558568,
+                    "svalue": 0.0013846546
+                },
+                {
+                    "label": "Finland",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.002954554,
+                    "svalue": 0.0007359875
+                },
+                {
+                    "label": "France",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.188942775,
+                    "svalue": 0.0470661657
+                },
+                {
+                    "label": "Germany",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.570527673,
+                    "svalue": 0.1421200149
+                },
+                {
+                    "label": "Greece",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.067137614,
+                    "svalue": 0.0167241646
+                },
+                {
+                    "label": "Hungary",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.04363649,
+                    "svalue": 0.0108699699
+                },
+                {
+                    "label": "Iceland",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Ireland",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.001272215,
+                    "svalue": 0.0003169123
+                },
+                {
+                    "label": "Italy",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.258295238,
+                    "svalue": 0.0643420553
+                },
+                {
+                    "label": "Latvia",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 6.37945e-05,
+                    "svalue": 1.58914e-05
+                },
+                {
+                    "label": "Lithuania",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.001936976,
+                    "svalue": 0.0004825061
+                },
+                {
+                    "label": "Luxembourg",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.002032633,
+                    "svalue": 0.0005063345
+                },
+                {
+                    "label": "Netherlands",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.165898681,
+                    "svalue": 0.0413258184
+                },
+                {
+                    "label": "North Macedonia",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.000310995,
+                    "svalue": 7.74697e-05
+                },
+                {
+                    "label": "Norway",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.002563484,
+                    "svalue": 0.0006385709
+                },
+                {
+                    "label": "Poland",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.076361932,
+                    "svalue": 0.0190219676
+                },
+                {
+                    "label": "Portugal",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.028891424,
+                    "svalue": 0.0071969333
+                },
+                {
+                    "label": "Romania",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.016631434,
+                    "svalue": 0.004142936
+                },
+                {
+                    "label": "Serbia",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Slovakia",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.006127328,
+                    "svalue": 0.0015263343
+                },
+                {
+                    "label": "Slovenia",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.005036585,
+                    "svalue": 0.0012546272
+                },
+                {
+                    "label": "Spain",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.316846132,
+                    "svalue": 0.0789272443
+                },
+                {
+                    "label": "Sweden",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.024699058,
+                    "svalue": 0.0061526034
+                },
+                {
+                    "label": "Switzerland",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.035002414,
+                    "svalue": 0.0087191977
+                },
+                {
+                    "label": "Turkiye",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.149359822,
+                    "svalue": 0.0372059431
+                },
+                {
+                    "label": "Ukraine",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.047709528,
+                    "svalue": 0.0118845748
+                },
+                {
+                    "label": "United Kingdom",
+                    "Year": 2022,
+                    "Parent": "Europe",
+                    "value": 0.130653709,
+                    "svalue": 0.0325461988
+                }
+            ]
+        },
+        {
+            "Year": 2022,
+            "value": 0.170045361,
+            "Parent": "World",
+            "label": "Middle East",
+            "svalue": 0.0244361217,
+            "data": [
+                {
+                    "label": "Bahrain",
+                    "Year": 2022,
+                    "Parent": "Middle East",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Iran",
+                    "Year": 2022,
+                    "Parent": "Middle East",
+                    "value": 0.006858855,
+                    "svalue": 0.0017085597
+                },
+                {
+                    "label": "Iraq",
+                    "Year": 2022,
+                    "Parent": "Middle East",
+                    "value": 0.003963079,
+                    "svalue": 0.0009872139
+                },
+                {
+                    "label": "Israel",
+                    "Year": 2022,
+                    "Parent": "Middle East",
+                    "value": 0.066579238,
+                    "svalue": 0.0165850716
+                },
+                {
+                    "label": "Kuwait",
+                    "Year": 2022,
+                    "Parent": "Middle East",
+                    "value": 0.00196458,
+                    "svalue": 0.0004893823
+                },
+                {
+                    "label": "Oman",
+                    "Year": 2022,
+                    "Parent": "Middle East",
+                    "value": 0.013734599,
+                    "svalue": 0.0034213264
+                },
+                {
+                    "label": "Qatar",
+                    "Year": 2022,
+                    "Parent": "Middle East",
+                    "value": 0.003857131,
+                    "svalue": 0.000960822
+                },
+                {
+                    "label": "Saudi Arabia",
+                    "Year": 2022,
+                    "Parent": "Middle East",
+                    "value": 0.007802897,
+                    "svalue": 0.0019437231
+                },
+                {
+                    "label": "Syria",
+                    "Year": 2022,
+                    "Parent": "Middle East",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "United Arab Emirates",
+                    "Year": 2022,
+                    "Parent": "Middle East",
+                    "value": 0.065284982,
+                    "svalue": 0.0162626689
+                },
+                {
+                    "label": "Yemen",
+                    "Year": 2022,
+                    "Parent": "Middle East",
+                    "value": 0.0,
+                    "svalue": 0.0
+                }
+            ]
+        },
+        {
+            "Year": 2022,
+            "value": 2.172400304,
+            "Parent": "World",
+            "label": "North America",
+            "svalue": 0.3121816317,
+            "data": [
+                {
+                    "label": "Canada",
+                    "Year": 2022,
+                    "Parent": "North America",
+                    "value": 0.05644206,
+                    "svalue": 0.0140598726
+                },
+                {
+                    "label": "Mexico",
+                    "Year": 2022,
+                    "Parent": "North America",
+                    "value": 0.180895478,
+                    "svalue": 0.0450615619
+                },
+                {
+                    "label": "US",
+                    "Year": 2022,
+                    "Parent": "North America",
+                    "value": 1.935062766,
+                    "svalue": 0.4820294654
+                }
+            ]
+        },
+        {
+            "Year": 2022,
+            "value": 0.4596290091,
+            "Parent": "World",
+            "label": "S. & Cent. America",
+            "svalue": 0.0660503194,
+            "data": [
+                {
+                    "label": "Argentina",
+                    "Year": 2022,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.027572343,
+                    "svalue": 0.0068683466
+                },
+                {
+                    "label": "Bolivia",
+                    "Year": 2022,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Brazil",
+                    "Year": 2022,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.282757491,
+                    "svalue": 0.0704356699
+                },
+                {
+                    "label": "Chile",
+                    "Year": 2022,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.135685503,
+                    "svalue": 0.0337996326
+                },
+                {
+                    "label": "Colombia",
+                    "Year": 2022,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.004717152,
+                    "svalue": 0.0011750556
+                },
+                {
+                    "label": "Cuba",
+                    "Year": 2022,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Curacao",
+                    "Year": 2022,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.0,
+                    "svalue": 0.0
+                },
+                {
+                    "label": "Ecuador",
+                    "Year": 2022,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.000361349,
+                    "svalue": 9.0013e-05
+                },
+                {
+                    "label": "Peru",
+                    "Year": 2022,
+                    "Parent": "S. & Cent. America",
+                    "value": 0.008479755,
+                    "svalue": 0.0021123303
+                },
+                {
+                    "label": "Trinidad & Tobago",
+                    "Year": 2022,
+                    "Parent": "S. & Cent. America",
+                    "value": 5.1995e-05,
+                    "svalue": 1.29521e-05
+                },
+                {
+                    "label": "Venezuela",
+                    "Year": 2022,
+                    "Parent": "S. & Cent. America",
+                    "value": 3.4211e-06,
+                    "svalue": 8.522e-07
+                }
+            ]
+        }
+    ]
+}
